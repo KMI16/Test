@@ -1,1 +1,2 @@
 Foo bar
+Some dummy text
