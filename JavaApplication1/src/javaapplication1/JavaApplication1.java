@@ -22,7 +22,7 @@ public class JavaApplication1 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         // TODO add some components
-        
+        // hallo welt 42 
         frame.setVisible(true);
     }
     
